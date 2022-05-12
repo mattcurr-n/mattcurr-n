@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mattcurr-n
-- 👀 I’m interested in sports but mostly hockey and I also enjoy video games.
+- 👀 I’m interested in sports mostly hockey and I also enjoy video games.
 - 🌱 I’m currently learning web development on my own time, I am a CS student at Bridgewater State.
 - 📫 I can be reached at availablemattcurran@gmail.com
 
